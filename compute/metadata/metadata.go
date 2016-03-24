@@ -31,7 +31,7 @@ import (
 	"sync"
 	"time"
 
-	"google.golang.org/cloud/internal"
+	"github.com/gcloud-golang/internal"
 )
 
 type cachedValue struct {
